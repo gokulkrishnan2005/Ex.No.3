@@ -62,28 +62,42 @@ Answer:
 
 ### Gemini
 1. Straightforward Prompts:
+Prompt:
+
 "Name two major components of a computer."
 
-Solution: Two major components of a computer are the Central Processing Unit (CPU) and the **** Random Access Memory (RAM).
+Solution:
+
+Two major components of a computer are the Central Processing Unit (CPU) and the **** Random Access Memory (RAM).
 
 2. Tabular Format Prompting
+Prompt:
+
 "Compare and contrast two types of galaxies (e.g., spiral and elliptical) in a table based on their shape, age, and star formation rate."
 
 Solution:
+
 | Feature | Spiral Galaxy | Elliptical Galaxy |
 | :--- | :--- | :--- |
 | Shape | Flat disk with spiral arms | Oval or spherical |
 | Age of Stars| Contains both young and old stars | Primarily contains old stars |
 | Star Formation| High rate of ongoing star formation | Very little to no new star formation |
 3.  Tabular Format Prompting:
+Prompt:
+
 "What is the function of the human heart? Describe how blood circulates through the body."
 
-Solution: The primary function of the human heart is to pump blood throughout the body, providing cells with oxygen and nutrients while removing waste products. Blood circulates through the body in a continuous loop. Oxygen-poor blood from the body enters the right side of the heart, which then pumps it to the lungs.
+Solution:
+
+The primary function of the human heart is to pump blood throughout the body, providing cells with oxygen and nutrients while removing waste products. Blood circulates through the body in a continuous loop. Oxygen-poor blood from the body enters the right side of the heart, which then pumps it to the lungs.
 
 4. Missing Word Prompting
+Prompt:
 "Water freezes at ____ degrees Celsius."
 
-Solution: Water freezes at 0 degrees Celsius.
+Solution:
+
+Water freezes at 0 degrees Celsius.
 
 
 
