@@ -38,6 +38,8 @@ Prompt:
 
 "Compare and contrast the renewable and non-renewable energy sources in a table."
 
+Answer:
+
 <img width="976" height="455" alt="image" src="https://github.com/user-attachments/assets/1f50b10c-2b66-4ce4-8b07-3776130d80e0" />
 
 3. Preceding Question Prompting:
@@ -106,13 +108,19 @@ Water freezes at 0 degrees Celsius.
 
 
 ### Conclusion 
+| **Aspect**                 | **Gemini Answer**                                                           | **Your Answer**                                                                                        |
+| -------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Clarity and Simplicity** | Direct, concise responses with basic factual answers.                       | Clear and direct but with more elaboration on certain details.                                         |
+| **Answer Detail**          | Provides essential information, typically brief.                            | More detailed explanations, especially for complex topics.                                             |
+| **Prompt Types**           | Utilizes straightforward prompts and simple fill-in-the-blank questions.    | Uses straightforward, tabular, and missing word formats with added context.                            |
+| **Complexity of Topics**   | Focuses on clear and simple answers, especially for foundational knowledge. | Includes more comprehensive explanations for deeper understanding (e.g., heart circulation, galaxies). |
+| **Tabular Format**         | Simple side-by-side comparison with basic details.                          | More detailed comparisons, like galaxies or the heart’s function, with specific characteristics.       |
+| **Efficiency vs. Detail**  | Prioritizes efficiency with minimal explanation.                            | Prioritizes more detail and context to explain the topic fully.                                        |
+| **Target Audience**        | Suitable for quick factual reference or beginners.                          | More suitable for learners needing deeper context or explanations.                                     |
 
 
 ### Result
 The various types of Prompts are executed successfully with generated the report.
 
 
-
-
-# Result: Thus the Prompts were exected succcessfully.
 
